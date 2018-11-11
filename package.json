@@ -1,0 +1,27 @@
+{
+  "name": "rokaf",
+  "version": "1.0.0",
+  "description": "Send a letter to a ROK Air Force soldier",
+  "main": "rokaf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rokaf",
+    "email",
+    "letter"
+  ],
+  "author": "PW486",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PW486/rokaf.git"
+  },
+  "homepage": "https://github.com/PW486/rokaf"
+}
