@@ -84,7 +84,7 @@ async function sendNews(startDate, day) {
     
     now.setDate(now.getDate()+1);
   }
-}
+};
 
 async function main() {
   await soldier.connect();

@@ -1,6 +1,6 @@
 {
   "name": "rokaf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Send a letter to a ROK Air Force soldier",
   "main": "rokaf.js",
   "scripts": {
