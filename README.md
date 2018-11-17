@@ -1,4 +1,4 @@
-# rokaf
+# rokaf [![Build Status](https://travis-ci.com/PW486/rokaf.svg?branch=master)](https://travis-ci.com/PW486/rokaf)
 > Send a letter to a [**ROK Air Force**](http://airforce.mil.kr:8081/user/indexSub.action?codyMenuSeq=147914674&siteId=atc&menuUIType=top) soldier.
 
 ## Installation
