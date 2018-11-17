@@ -1,1 +1,9 @@
 language: node_js
+
+deploy:
+  provider: npm
+  email: ooqwe486@gmail.com
+  api_key:
+    secure: Kt7XupdfgbiEw5+rIhTyk1EnLE9ddyUgUtKOw8GWmGqGkVwme3PNj6gyvyyoi3bT6RyF7wAjaA8DuXjQUnMP65nZRKhR2Z5buR3WWWviA7iZSyJgTGbC89JYIzYb9RDVpXh8mHLOOQ0DupfvjmuiBl7NCaxS+e7n2GFpicsbmoMPE8FApZtI3+HaGfjDHTxISaDvN9Ip7tgvGWLT9pt70mnvKojUEOPHfCKS0nQEYLdbSBVm+tYYFBRKIGrKWh+k9k6M5T4LV8fwYcxh2/KT7OJk3byAW67vZzrNmv5TxPSvQHF/Y9qO9RgPCQV0aWrGVwayr77KXn8pAk40y15WTlE/iLhgMw/jal7+KJqGQsDig549gk30f9yC6D/AHIJH8JsmoztyQexNTCc5SEcm+Nis2BUGNL+QlSsd/EBeA79iR5JeaDCHLVr+HevazvALua4/oHvXy8Q83tchfZgSsu//+Ux3ThEMmYqR8VlY69aAMyv5R2597tLxkoe2GuM2JDrk4yZRz6cc4fTGXKWEHtQiK6lKsCMwEkPEaNA/PDZrsZcaa/Auj1yMFJJP0M626OwZRPCLcjqlL7dtnsjAbbFi1OtiVPiY5iRFkBGcR2Z0qJRIkWGUt6c84zvtnzWWK34Gz/zRvsd2VYdD5op2Sp3o2ppWllCmElNU9jlZCdU=
+  on:
+    repo: PW486/rokaf
