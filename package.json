@@ -1,10 +1,10 @@
 {
   "name": "rokaf",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Send a letter to a ROK Air Force soldier",
   "main": "rokaf.js",
   "scripts": {
-    "test": "echo \"no test specified.\""
+    "test": "eslint *.js examples/*.js"
   },
   "keywords": [
     "rokaf",
